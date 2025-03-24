@@ -103,7 +103,6 @@ def read_file(file_path):
 
 # Main function of the compiler
 def main():
-    # Replace 'code.txt' with the name of the file containing the expression
     file_path = 'code.txt'
     
     try:
